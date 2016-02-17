@@ -1,0 +1,30 @@
+{
+  "name": "ng-echarts",
+  "version": "0.1.1",
+  "homepage": "https://github.com/codeos/ng-echarts",
+  "authors": [
+    "liekkas <zengjiangqin@gmail.com>"
+  ],
+  "description": "angular baidu echarts",
+  "main": "./dist/ng-echarts.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "baidu",
+    "echarts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3",
+    "echarts": "~3.0.2"
+  }
+}
