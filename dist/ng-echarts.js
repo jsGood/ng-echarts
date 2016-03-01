@@ -61,7 +61,7 @@ angular.module('ng-echarts',['ng-echarts.theme'])
                 //监控窗口变化；
                 $(window).resize(function(){
                     chart.resize()
-                  })
+                  });
 
                 //自定义参数 -
                 // event 定义事件
