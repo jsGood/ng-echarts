@@ -6,7 +6,7 @@
     "liekkas <zengjiangqin@gmail.com>"
   ],
   "description": "angular baidu echarts",
-  "main": "./dist/ng-echarts.min.js",
+  "main": "./dist/ng-echarts.js",
   "moduleType": [
     "globals"
   ],
